@@ -1,2 +1,2 @@
-#  Reinforcementlearning_study
+#  Reinforcementlearning_algorithm
 強化学習について学んだアルゴリズムなどを載せます。
